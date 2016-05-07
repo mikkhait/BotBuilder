@@ -1,5 +1,7 @@
 # Bot Builder SDK
 
+[![Join the chat at https://gitter.im/mikkhait/BotBuilder](https://badges.gitter.im/mikkhait/BotBuilder.svg)](https://gitter.im/mikkhait/BotBuilder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The Microsoft Bot Builder SDK is one of three main components of the Microsoft Bot Framework.
 
 The Microsoft Bot Framework provides just what you need to build and connect intelligent bots that interact naturally wherever your users are talking, from text/sms to Skype, Slack, Office 365 mail and other popular services.
